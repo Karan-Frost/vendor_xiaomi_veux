@@ -1109,6 +1109,7 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
+    camerax-vendor-extensions \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
     dpmapi \
